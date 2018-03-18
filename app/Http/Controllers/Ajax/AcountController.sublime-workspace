@@ -1,0 +1,1130 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style"
+			],
+			[
+				"km",
+				"km_to"
+			],
+			[
+				"emty",
+				"empty"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"m_",
+				"m_to"
+			],
+			[
+				"km_",
+				"km_to"
+			],
+			[
+				"max",
+				"max_m_from"
+			],
+			[
+				"lane",
+				"lane_data"
+			],
+			[
+				"m",
+				"m_from"
+			],
+			[
+				"direc",
+				"direction_obj"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"dir",
+				"direction_obj"
+			],
+			[
+				"dire",
+				"direction_obj"
+			],
+			[
+				"josn",
+				"json_encode"
+			],
+			[
+				"section",
+				"section_data"
+			],
+			[
+				"isi",
+				"is_int"
+			],
+			[
+				"data",
+				"data_request"
+			],
+			[
+				"new",
+				"new_data"
+			],
+			[
+				"km_for",
+				"km_from_input"
+			],
+			[
+				"row",
+				"row_data"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"sec",
+				"section_data"
+			],
+			[
+				"number",
+				"number_of_lane_down"
+			],
+			[
+				"cra",
+				"cracking_ratio"
+			],
+			[
+				"p",
+				"pothole"
+			],
+			[
+				"pa",
+				"patching"
+			],
+			[
+				"c",
+				"cracking"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"sb",
+				"sb_id"
+			],
+			[
+				"pavement",
+				"pavement_type_id"
+			],
+			[
+				"road_class",
+				"road_class_id"
+			],
+			[
+				"sel",
+				"select_option"
+			],
+			[
+				"selec",
+				"select_option"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"br",
+				"branch"
+			],
+			[
+				"dta",
+				"data_tmp"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"tblSectionPC",
+				"tblSectionPCHistory"
+			],
+			[
+				"V",
+				"Value"
+			],
+			[
+				"Vla",
+				"ValueOriginal"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"yea",
+				"year"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"tot",
+				"total_min_lat"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"year",
+				"year_name"
+			],
+			[
+				"k",
+				"kilopost_from"
+			],
+			[
+				"kilopost_",
+				"kilopost_to"
+			],
+			[
+				"fr",
+				"from_to"
+			],
+			[
+				"dat",
+				"date_y"
+			],
+			[
+				"r",
+				"rmb_id"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"modal",
+				"modal_link"
+			],
+			[
+				"read",
+				"ready"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"padidng",
+				"padding-bottom-0"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"se",
+				"setCenter"
+			],
+			[
+				"arr",
+				"arrive_time"
+			],
+			[
+				"ar",
+				"arrive"
+			],
+			[
+				"arri",
+				"arrive"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"fin",
+				"finished"
+			],
+			[
+				"pay_bac",
+				"pay_back_time"
+			],
+			[
+				"stud",
+				"studentid"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"ob",
+				"object_update"
+			],
+			[
+				"obje",
+				"object_update"
+			],
+			[
+				"stu",
+				"student_id"
+			],
+			[
+				"sch",
+				"school_admin"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"su",
+				"student"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"SUB",
+				"sub_item"
+			],
+			[
+				"sta",
+				"started_at"
+			],
+			[
+				"drop",
+				"drop_off_info"
+			],
+			[
+				"pick",
+				"pick_up_info"
+			],
+			[
+				"pic",
+				"pick_up_info"
+			],
+			[
+				"dro",
+				"drop_off_id"
+			],
+			[
+				"pi",
+				"pick_up_id"
+			],
+			[
+				"tri",
+				"trip_id"
+			],
+			[
+				"dp",
+				"dp_tmp"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"pay",
+				"pay_back_id"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"studen",
+				"student_id"
+			],
+			[
+				"studne",
+				"student_id"
+			],
+			[
+				"stude",
+				"student"
+			],
+			[
+				"postio",
+				"postion_student"
+			],
+			[
+				"stue",
+				"student_class"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"pay_back",
+				"pay_back"
+			],
+			[
+				"arrive",
+				"arrive_time"
+			],
+			[
+				"trip",
+				"trip_info"
+			],
+			[
+				"trip_",
+				"trip_info"
+			],
+			[
+				"gen",
+				"generateDparture"
+			],
+			[
+				"cals",
+				"class"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"tr",
+				"trip_id"
+			],
+			[
+				"but",
+				"button_delete"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"parent",
+				"parents"
+			],
+			[
+				"array",
+				"array_id"
+			],
+			[
+				"sudent",
+				"student_id"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"chcek",
+				"checked"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/map_login_script.blade.php",
+		"/E/SCHOOL_BUS/03-Coding/Server/resources/views/backend/trip_create/add.blade.php",
+		"/E/SCHOOL_BUS/03-Coding/Server/resources/views/backend/trip_create/index.blade.php",
+		"/E/SCHOOL_BUS/03-Coding/Server/resources/views/backend/trip/student_trip.blade.php",
+		"/E/SCHOOL_BUS/03-Coding/Server/resources/views/backend/trip/index.blade.php",
+		"/E/SCHOOL_BUS/03-Coding/Server/app/Http/Controllers/Backend/School/TripController.php",
+		"/E/SCHOOL_BUS/03-Coding/Server/app/Providers/AppServiceProvider.php",
+		"/E/JOB/03-Coding/PMS_laravel/resources/views/front-end/m24/map_login_script.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Models/tblSectiondataMH.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Models/tblSectiondataRMD.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/FrontEnd/M13/MaintenanceHistoryController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/FrontEnd/M13/RoadInventoryController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/htmlheader.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/Ajax/Map/IndexController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/Ajax/Backend/RmbSbController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/FrontEnd/M13/TrafficVolumeController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m13/maintenance_history/export.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m13/maintenance_history/index.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/head.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/map_script.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/Ajax/Backend/RoadInventoryController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/custom/table_extra_data.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/layouts/partials/script.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/Ajax/Backend/MaintenanceHistoryController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m13/maintenance_history/extra_view.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Classes/Helper.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/aside.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/map_public_user_script.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/layouts/partials/mainheader.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/content.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/config/debugbar.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/storage/framework/views/817684fe305ddf608794933d1af9e2faf39cf5a2.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/lang/vi/general.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/script.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/lang/vi/map.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/master.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/public/js/js_FixedColumns.js",
+		"/C/Users/DELL/Downloads/js_FixedColumns.js.html",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/lang/en/general.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/lang/en/map.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/test.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/lang/vi/menu.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/lang/en/menu.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/public/plugins/TableHeadFixer/assets/bootstrap-3.3.2/js/tests/index.html",
+		"/C/Users/DELL/AppData/Local/Temp/Rar$DIa0.524/ScrollTabla.css",
+		"/C/Users/DELL/AppData/Local/Temp/Rar$EXa0.438/jQuery-Plugin-For-Fixed-Table-Header-Footer-Columns-TableHeadFixer/examples/fixRight.html",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/layouts/partials/mainheader.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/layouts/partials/htmlheader.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/FrontEnd/M24/DataMapController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Jobs/formulate_dataset.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/HomeController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/home.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/home.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/vendor/libressltd/lbsa/src/views/partials/contentheader.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/layouts/partials/contentheader.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/.env.example",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/.env",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/.env",
+		"/E/htdocs/html_Version_inspinia_v2.5/HTML_Version/forgot_password.html",
+		"/E/htdocs/jquery1.php",
+		"/C/xampp/htdocs/traning/resources/views/traning/layout.blade.php",
+		"/C/xampp/htdocs/traning/resources/views/traning/trangmot.blade.php",
+		"/C/Users/DELL/Desktop/tkweb/trang1.html",
+		"/C/Users/DELL/Desktop/tkweb/trang2.html",
+		"/C/Users/DELL/Desktop/tkweb/trang3.html",
+		"/C/Users/DELL/Desktop/tkweb/trang4.html",
+		"/C/xampp/htdocs/traning/public/traning/trang1.html",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Models/tblSegment.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Models/tblSegmentHistory.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/sftp-config.json",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/public/sa/js/demo.min.js",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Models/tblOrganization.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/ribbon.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/routes/web.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/DRVN/application/controllers/data_map.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/app.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/FrontEnd/m24/DataMapController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/option_sidbar_blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Models/tblSectionPC.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/public/front-end/js/map_public_user.js",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/storage/framework/views/6bb31a26bb1c4cb3ae81668b3683cd6fcfb53fd2.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/readme.md",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/package.json",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/phpunit.xml",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/public/front-end/js/option_sibar.js",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/app/Http/Controllers/Backend/School/TripController.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/app/Http/Controllers/Ajax/TripController.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/app/Http/Controllers/Backend/Parent/TripController.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/resources/views/backend/trip/index.blade.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/resources/views/backend/trip/student_trip.blade.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/resources/views/backend/departure/add.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/home.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/app/Http/Controllers/Ajax/Map/indexController.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/public/front-end/js/map.js",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/map_script.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/map.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/main_content.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/main-content.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/map.text",
+		"/C/Users/DELL/Desktop/BTgiuakytkweb/trang_chu.html",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/aaa.blade.php",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/test.blade.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/resources/views/backend/trip/add.blade.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/resources/views/backend/trip/edit_departure.blade.php",
+		"/C/Users/DELL/Desktop/New folder/newsplatform/03-Coding/v1/Server/public/sa/js/demo.min.js",
+		"/C/Users/DELL/Desktop/New folder/DRVN/03-Coding/PMS_laravel/resources/views/front-end/m24/layout/left_sidebar.blade.php",
+		"/C/xampp/htdocs/traning/public/traning/trang2.html",
+		"/C/xampp/htdocs/traning/public/traning/trang4.html",
+		"/C/Users/DELL/Desktop/tkweb/infoSocial.html",
+		"/C/Users/DELL/Desktop/tkweb/userLogin.html",
+		"/C/xampp/htdocs/traning/resources/views/traning/userRegister.blade.php",
+		"/C/Users/DELL/Desktop/tkweb/userRegister.html",
+		"/C/xampp/htdocs/traning/public/traning/trang3.html",
+		"/C/xampp/htdocs/traning/resources/views/traning/userLogin.blade.php",
+		"/C/Users/DELL/Desktop/tkweb/userInfo.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/infoSocial.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/layout.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/trangba.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/trangbon.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/tranghai.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/trangmot.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/userInfo.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/userLogin.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/userRegister.html",
+		"/C/Users/DELL/Desktop/btthietkeweb/css/trangmot.css",
+		"/C/xampp/htdocs/traning/resources/views/index.balde.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/app/Http/Controllers/Backend/Admin/SchoolController.php",
+		"/C/Users/DELL/Desktop/New folder/SchoolBus/03-Coding/Server/resources/views/backend/trip/edit_trip_info.blade.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\DELL\\Desktop\\New folder\\DRVN\\03-Coding\\PMS_laravel\\",
+			"C:\\Users\\DELL\\Desktop\\New folder\\DRVN\\03-Coding\\PMS_laravel\\database\\migrations",
+			"C:\\Users\\DELL\\Desktop\\mynewfile(79)\\xl",
+			"C:\\Users\\DELL\\Desktop\\mynewfile(79)",
+			"C:\\Users\\DELL\\Desktop\\New folder\\DRVN\\03-Coding\\PMS_laravel",
+			"C:\\Users\\DELL\\Desktop\\New folder\\svntest\\03-Coding\\v1\\server",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hr",
+			"horizontal_view",
+			"position:",
+			"position",
+			"_doValidate",
+			"do",
+			"do_validate",
+			"drawHorizontalLine",
+			"findMaxMinSection",
+			"var",
+			"findMaxMinSection",
+			"selectSection",
+			"showBriefInfo",
+			"lane_data",
+			"lane_dât",
+			"lane_data",
+			"selectSection",
+			"showBriefInfo",
+			"lane_data",
+			"section_data",
+			"selectSection",
+			"showBriefInfo",
+			"section",
+			"section_data",
+			"lanag",
+			"name_vn",
+			"key",
+			"year_up_to",
+			"lane_no",
+			"lang",
+			"_filterSection",
+			"index",
+			"index1",
+			"mb",
+			"userLogout",
+			"userLohout",
+			"userLogout",
+			"logout",
+			"sb_select",
+			"loadSB",
+			"getRouteDetail",
+			"mh",
+			"survey_time",
+			"createHistory",
+			"_doValidate",
+			"format",
+			"item",
+			"table_id",
+			"filterUpdate",
+			"_doValidate",
+			"layers",
+			"moveSlide",
+			"moveSlide\n",
+			"keyDownHandle",
+			"dialog",
+			"dialof",
+			"Excel",
+			"_doValidate",
+			"km_from_input",
+			"tblSectiondataRMD",
+			"filterType",
+			"maintenance_history",
+			"filterUpdate",
+			"filterByCondition",
+			"filterSuperInput",
+			"scopeFilterSuperInput",
+			"filterDropdown",
+			"scopeFilterByCondition",
+			"filterDropdown",
+			"<script src=\"http://localhost/DataTables/datatables.js\"></script>",
+			"datatables.js",
+			"daatatables.js",
+			"Datatable.js",
+			"scopeFilterSuperInput",
+			"scopeFilterDropdown",
+			"scrollintoview",
+			"selectSection",
+			"loadPCTable",
+			"getLanedata",
+			"appendRowToPCTable",
+			"loadPCTable",
+			"appendRowToPCTable",
+			"equal = false",
+			"selectSection",
+			"preloadImg",
+			"selectSection",
+			"getDataMap",
+			"datamap",
+			"search",
+			"saerch",
+			"loadRoadData",
+			"getCenter",
+			"loadPCTable()",
+			"appendRowToPCTable",
+			"draw",
+			",\n",
+			"selectSection",
+			"claer()",
+			"claer",
+			"load",
+			"click",
+			"row_data",
+			"row",
+			"vả rơ",
+			"load",
+			"loadTbale",
+			"selectSection",
+			"loadPCTable",
+			"appendRow",
+			"$('#table-pc').DataTable",
+			"appendrow",
+			"rowtopc",
+			"prepen",
+			"prepend",
+			"loadLaneData",
+			"loadPCTable",
+			"appendRowToPCTable",
+			"showHidePCTable",
+			"hide",
+			"selectSection",
+			"lane_data",
+			"points",
+			"appendRowToPCTable",
+			"loadPCTable",
+			"load_",
+			"table",
+			"loadLaneData",
+			"loadPCTable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<button class=\"btn btn-success\">Đặt món<img src=\"img/go.png\" alt=\"\"></button> ",
+			"",
+			"25,0000 Đ",
+			"/sa",
+			"",
+			"sa",
+			"",
+			"/sa/js",
+			"/sa",
+			"/sa/js",
+			"/sa",
+			"sa/js",
+			"loadScript(\"/sa/js",
+			"profile_type",
+			"method_final",
+			"$this->epsilonInput",
+			"forecast",
+			"wp",
+			"",
+			"$link.'(%)'",
+			"$link.(%)",
+			"setting",
+			"comment",
+			"isHowToJoin",
+			"order_items",
+			"orders",
+			"order_item",
+			"order",
+			"name=\"a{{$row6->id}}\"",
+			"name=\"input[]\"",
+			"twitter",
+			"google",
+			"{{trans('btn.bt1')}}",
+			"{{trans('btn.btn1')}}",
+			"<img src=\"{{asset('public/traning/",
+			"<img src=\"{{asset('public/traning/img",
+			"<img src=\"{{asset('public/traning/",
+			"<p>25,0000</p>",
+			"Bít Tết",
+			"<img src=\"img/free-ship.png\" alt=\"...\">",
+			"<?php echo public_url('admin')?>",
+			"<?php echo public_url('quantri')?>",
+			"src=\"<?php echo base_url()?>/public/images",
+			"src=\"<?php echo base_url()?>/images",
+			"src=\"<?php echo base_url()?>/upload",
+			"src=\"<?php echo base_url()/upload ?>",
+			"<?php echo public_url('admin')?>/images/",
+			"<?php echo public_url()?>/js/",
+			"<?php echo public_url('admin')?>/crown/",
+			"<?php echo public_url('site')?>/img/",
+			"<?php echo public_url('site')?>/js/",
+			"<?php echo public_url('site')?>/css/",
+			"<?php echo public_url('site')?>/css",
+			"<?php echo public_url('site')?>/",
+			"<?php echo public_url('css')?>/site/",
+			"<?php echo public_url('css')?>/",
+			"<?php echo public_url('css')/?>",
+			"order_model",
+			"transaction_model",
+			"giao dịch",
+			"<?php echo base_url()  ?>/upload",
+			"slide",
+			"news",
+			"src=\" <?php echo THEME_URL; ?>/",
+			"src=\" <?php echo THEME_URL(); ?>/",
+			"src=\" <?php echo THEME_URI(); ?>/",
+			"src=\"\"",
+			"src=\"<?php echo THEME_URL;  ?>\"/",
+			"src=\"<?php echo THEME_URL;  ?>\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "AcountController.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tblw",
+				"PMS_laravel\\app\\Models\\tblWorkPlanning.php"
+			],
+			[
+				"tblwor",
+				"PMS_laravel\\app\\Models\\tblWorkPlanningOrganization.php"
+			],
+			[
+				"crack",
+				"PMS_laravel\\app\\Jobs\\crack_route_22.php"
+			],
+			[
+				"crack_se",
+				"PMS_laravel\\app\\Jobs\\crack_section_31.php"
+			],
+			[
+				"home.blad",
+				"PMS_laravel\\resources\\views\\front-end\\home.blade.php"
+			],
+			[
+				"homecontr",
+				"Server\\app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"illuminate/http/redirectresponse",
+				"PMS_laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\RedirectResponse.php"
+			],
+			[
+				"redirect",
+				"PMS_laravel\\vendor\\symfony\\http-foundation\\RedirectResponse.php"
+			],
+			[
+				"job/c",
+				"PMS_laravel\\app\\Jobs\\crack_11.php"
+			],
+			[
+				"smartmessagebox",
+				"PMS_laravel\\public\\smart-admin\\sound\\messagebox.mp3"
+			],
+			[
+				"drvn",
+				"vendor\\mockery\\mockery\\docs\\reference\\mockery\\reserved_method_names.rst"
+			],
+			[
+				"notifi",
+				"TIS\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Notification.php"
+			],
+			[
+				"use",
+				"TIS\\app\\Models\\User.php"
+			],
+			[
+				"line",
+				"server\\vendor\\sebastian\\diff\\src\\Line.php"
+			],
+			[
+				"mailmess",
+				"server\\vendor\\laravel\\framework\\src\\Illuminate\\Notifications\\Messages\\MailMessage.php"
+			],
+			[
+				"web.php",
+				"server\\routes\\web.php"
+			],
+			[
+				"role.php",
+				"server\\app\\Models\\Role.php"
+			],
+			[
+				"models/order.php",
+				"app\\Models\\orders.php"
+			],
+			[
+				"order.php",
+				"vendor\\phpoffice\\phpexcel\\Classes\\PHPExcel\\Style\\Border.php"
+			],
+			[
+				"rout",
+				"vendor\\symfony\\routing\\Route.php"
+			],
+			[
+				"compsoer",
+				"composer.json"
+			],
+			[
+				"dangnhap",
+				"admin\\css\\dangnhap.css"
+			],
+			[
+				"dangxuat.php",
+				"admin\\dangxuat.php"
+			],
+			[
+				"",
+				"admin\\danhsachsp.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\tailieulaptrinh webvietpro\\training\\frontend-trang hien thi\\Lab 06 - Xây dựng chức năng Tìm kiếm Sản phẩm\\vietproshop\\chitietsp.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

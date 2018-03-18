@@ -1,0 +1,21 @@
+{
+    "name": "libressltd/lbsa",
+    "description": "lbsa",
+    "type": "library",
+    "require": {
+
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "libre ss ltd",
+            "email": "contact@libreteam.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LIBRESSLtd\\LBSA\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

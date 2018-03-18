@@ -1,0 +1,24 @@
+{
+    "name": "libressltd/lbsidemenu",
+    "description": "full stack package allow deep permission system",
+    "type": "library",
+    "require": {
+        "libressltd/deeppermission": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "libre ss ltd",
+            "email": "contact@libreteam.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LIBRESSLtd\\LBSideMenu\\": "src/"
+        },
+        "classmap": [
+            "src/controllers"
+        ]
+    },
+    "minimum-stability": "stable"
+}

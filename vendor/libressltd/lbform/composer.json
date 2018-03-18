@@ -1,0 +1,22 @@
+{
+    "name": "libressltd/lbform",
+    "description": "Form element for reuse",
+    "type": "library",
+    "require": {
+        "laravelcollective/html": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "libre ss ltd",
+            "email": "contact@libreteam.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LIBRESSLtd\\LBForm\\": "src/"
+        },
+        "classmap": ["src/controllers", "src/traits"]
+    },
+    "minimum-stability": "stable"
+}

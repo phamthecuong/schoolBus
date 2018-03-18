@@ -1,0 +1,1 @@
+<img height="100px" width="100px" src={{$file_path}} alt="#">
